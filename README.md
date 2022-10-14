@@ -6,7 +6,7 @@ The module record table in the learner_record database currently doesn't have un
 
 ### Requirements
 
-Requirements for this script can be found in `requirements.txt`
+Requirements for this script can be found in `requirements.txt` and can be installed using the `pip install -r requirements.txt` command at the project root.
 
 ### Environment
 
